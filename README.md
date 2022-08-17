@@ -28,6 +28,10 @@ representation that will alert users
 ![P](https://user-images.githubusercontent.com/95854682/185203766-4d257910-5764-4e9d-9383-c8bda0b818fc.jpg)
 ###  LCD Display
 ![LCD](https://user-images.githubusercontent.com/95854682/185204211-b02d9917-7686-4e6c-ae54-00bca2b16a91.jpg)
+### Jumpers
+![jumpers](https://user-images.githubusercontent.com/95854682/185217073-1a766cba-7c2a-455f-8ae0-5b6e983a82a7.jpg)
+### Battery(Power)
+![battery](https://user-images.githubusercontent.com/95854682/185217180-b879b3e4-f0eb-4965-bb1d-632f5072fd8f.jpg)
 
 
 ## Images of the Project
